@@ -1,1 +1,1 @@
-My first readme
+My edited first readme file on git GUI
